@@ -1,0 +1,9 @@
+fastapi
+langchain_core
+langchain_groq
+pyngrok==7.1.2
+nest-asyncio==1.5.1
+ngrok
+uvicorn
+paddleocr==2.7.0.0
+paddlepaddle==2.6.1
